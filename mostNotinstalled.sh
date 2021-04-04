@@ -2,7 +2,7 @@
 
 if rpm -q most | grep "not installed" > /dev/null
     then
-        yum -y update && yum install -y most
+       sudo yum -y update && yum install -y most
 fi
 
 
