@@ -1,7 +1,7 @@
-# MY PS1 files
+# Linux environment  
 
-## this bash script will add a custum PS1 to your terminal 
+## my scritp to change my Linux bash environment 
 
-- not sure where I got this one from but it's not mine. so I dont take creadit for it 
-
+- adding a custom  PS1 
+- adding a vim themes
 
