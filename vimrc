@@ -12,5 +12,5 @@ set wildmenu
 set autoindent
 set tabstop=2
 set shiftwidth=2
-autocmd FileType yaml setlocal ai ts=2 sw=2 et
-autocmd FileType yml setlocal ai ts=2 sw=2 et
+autocmd FileType yaml setlocal ai ts=2 sw=2 et cuc
+autocmd FileType yml setlocal ai ts=2 sw=2 et cuc
