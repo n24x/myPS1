@@ -1,9 +1,12 @@
 set nocompatible
 filetype plugin on
 syntax on
-set number
+set ai et ts=2 sts=2 sw=2
 set relativenumber
 set cursorline
+set cursorcolumn
+set spelllang=en_us
+set showmode
 set expandtab
 set ignorecase
 set nowrap
